@@ -4,7 +4,7 @@ A modern clone of JioCinema built with React and TailwindCSS, featuring a respon
 
 ## Live Demo
 
-[View Live Demo](#) *(Coming soon)*
+[View Live Demo](https://67af14faacedc12243770982--jiocinema-basic-clone.netlify.app/) *(Coming soon)*
 
 ## Features
 
