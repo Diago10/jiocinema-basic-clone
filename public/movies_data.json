@@ -400,19 +400,6 @@
         "id": 25
     },
     {
-        "name": "Rashomon",
-        "language": "Japanese",
-        "genre": ["Crime", "Drama", "Mystery"],
-        "featured": true,
-        "cast": ["Toshiro Mifune", "Machiko Kyo", "Masayuki Mori"],
-        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjYxZmE2MzQtNzQ2NC00NThhLWIzYzUtNGRhYWEyNGI3NjZhXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_FMjpg_UX1000_.jpg",
-        "imdb": 8.2,
-        "runtime": 88,
-        "description": "A murder and rape are recounted from multiple perspectives, revealing the complexities of truth and human nature.",
-        "country": "Japan",
-        "id": 26
-    },
-    {
         "name": "The Hunt",
         "language": "Danish",
         "genre": ["Drama", "Thriller"],
@@ -423,7 +410,7 @@
         "runtime": 115,
         "description": "A kindergarten teacher's life unravels when a simple lie spirals out of control, causing his community to turn against him.",
         "country": "Denmark",
-        "id": 27
+        "id": 26
     },
     {
         "name": "Slumdog Millionaire",
@@ -436,7 +423,7 @@
         "runtime": 120,
         "description": "A teenager from the slums of Mumbai becomes a contestant on a game show, reliving his harsh life experiences with each question.",
         "country": "India",
-        "id": 28
+        "id": 27
     },
     {
         "name": "Portrait of a Lady on Fire",
@@ -449,7 +436,7 @@
         "runtime": 120,
         "description": "On an isolated island in 18th-century France, an artist falls in love with the woman she is commissioned to paint.",
         "country": "France",
-        "id": 29
+        "id": 28
     },
     {
         "name": "The Handmaiden",
@@ -462,6 +449,6 @@
         "runtime": 145,
         "description": "A Korean con man hires a handmaiden to help him seduce a Japanese heiress, but things take unexpected turns.",
         "country": "South Korea",
-        "id": 30
+        "id": 29
     }
 ]
